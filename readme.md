@@ -19,6 +19,7 @@
   `
 
 # file structure
+```
 NextJsTraining/finditbh/
   ├─].next/ (ignored)
   ├─]node_modules/ (ignored)         
@@ -56,7 +57,7 @@ NextJsTraining/finditbh/
   *│  │  ├─ products/*          //page route(url)   /prodcuts
   *│  │  │  ├─ [id]/*           //page by id route url  /products/id
   *│  │  │  │  └─ page.tsx*     //the page itself
-
+```
 
  # the html tailwind-css part is on the retrun()
   
